@@ -624,6 +624,7 @@
   "GUI_TAB_OCEAN": "Ocean",
   "GUI_TAB_OUTFIT_EDITOR": "Outfit Editor",
   "GUI_TAB_OUTFIT_SLOTS": "Outfit Slots",
+
   "GUI_TAB_PLAYER_DATABASE": "Player Database",
   "GUI_TAB_PROTECTION_SETTINGS": "Protection",
   "GUI_TAB_PROXY_SETTINGS": "Proxy Settings",
@@ -646,6 +647,7 @@
   "GUI_TAB_WEAPONS_AMMUNATION": "Ammu-Nation",
   "GUI_TAB_WORLD": "World",
   "GUI_TAB_XML_MAPS": "XML Maps",
+  "GUI_TAB_VARIOS": "Varios",
   "HANDLING_ACCELERATION_MULTIPLIER": "Acceleration Multiplier",
   "HANDLING_ANTI_ROLL_BAR_BIAS_FRONT": "Anti-Roll Bar Bias front (0 = front, 1 = rear)",
   "HANDLING_ANTI_ROLL_BAR_FORCE": "Anti-Roll Bar force",
